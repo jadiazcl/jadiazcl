@@ -22,17 +22,9 @@ I'm a Full-Stack developer from Chile, based in Santiago.
   ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
   ![Golang](https://img.shields.io/badge/-Go-000?&logo=Go)
 
-### Backend Frameworks
+### Frameworks and DBs
 
-- ![Django](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=darkgreen) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)
-
-### Frontend Frameworks
-
-- ![ReactJs](https://img.shields.io/badge/-ReactJs-000?&logo=REACT) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-
-### DataBase Managenent System
-
-- ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=Mysql) ![Postgres](https://img.shields.io/badge/-Postgres-000?&logo=postgresql)
+- ![Django](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=darkgreen) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff) ![ReactJs](https://img.shields.io/badge/-ReactJs-000?&logo=REACT) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap) ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=Mysql)
 
 ### Tools
 
