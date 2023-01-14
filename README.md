@@ -30,13 +30,9 @@ I'm a Full-Stack developer from Chile, based in Santiago.
 
 - ![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker) ![Nginx](https://img.shields.io/badge/-Nginx-000?style=flat-square&logo=nginx&logoColor=green) ![Apache](https://img.shields.io/badge/-Apache-000?style=flat-square&logo=apache&logoColor=purple) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?style=flat-square&logo=DigitalOcean) ![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
 
-### I am currently learning
+### I'm currently learning or I'm interested in learning
 
-- ![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazon-aws&logoColor=orange) ![Angular](https://img.shields.io/badge/Angular-000?style=flat-square&logo=angular&logoColor=red)
-
-### I am interested in learning
-
-- ![NodeJS](https://img.shields.io/badge/node.js-000?style=flat-square&logo=node.js) ![Spring](https://img.shields.io/badge/spring-000.svg?style=flat-square&logo=spring&logoColor=green) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat-square&logo=MongoDB&logoColor=green) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=flat-square&logo=Kubernetes&logoColor=yellow) ![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=apachekafka&logoColor=ffffff)
+- ![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazon-aws&logoColor=orange) ![Angular](https://img.shields.io/badge/Angular-000?style=flat-square&logo=angular&logoColor=red) ![NodeJS](https://img.shields.io/badge/node.js-000?style=flat-square&logo=node.js) ![Spring](https://img.shields.io/badge/spring-000.svg?style=flat-square&logo=spring&logoColor=green) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat-square&logo=MongoDB&logoColor=green) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=flat-square&logo=Kubernetes&logoColor=yellow) ![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=apachekafka&logoColor=ffffff)
 
 **Statistics**
 
