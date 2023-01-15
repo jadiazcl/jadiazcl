@@ -36,7 +36,7 @@ I'm a Full-Stack developer from Chile, based in Santiago.
 
 **Statistics**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jor-diaz&show_icons=true&locale=en&layout=compact" alt="jor-diaz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jor-diaz&show_icons=true&locale=en&layout=compact&exclude_repo=Jor-Diaz" alt="jor-diaz" /></p>
 
 Last Updated on 15/01/2023
 
