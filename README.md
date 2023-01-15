@@ -4,11 +4,11 @@ I'm a Full-Stack developer from Chile, based in Santiago.
 
 ## 📋 About Me
 
-- 🧑🏻‍🎓 I'm Computer Science Engineer and Master of Science in Computer Science Engineering at Universidad Técnica Federico Santa María.
+🧑🏻‍🎓 I'm Computer Science Engineer and Master of Science in Computer Science Engineering at Universidad Técnica Federico Santa María.
 
-- 🧑🏻‍🏫 I'm a part-time professor at the Universidad Técnica Federico Santa María. I have taught the courses: Computer Networks, Distributed Systems, Discrete Mathematics and Programming Languages.
+🧑🏻‍🏫 I'm a part-time professor at the Universidad Técnica Federico Santa María. I have taught the courses: Computer Networks, Distributed Systems, Discrete Mathematics and Programming Languages.
 
-- 💻 I have worked in the area of development for more than three years for several companies.
+💻 I have worked in the area of development for more than three years for several companies.
 
 ## 🛠 Technology Stack
 
