@@ -14,17 +14,17 @@ I'm a Full-Stack developer from Chile, based in Santiago.
 
 ### Programming Languages
 
-- ![Python](https://img.shields.io/badge/-Python-EEEEEE?&logo=Python)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-EEEEEE?&logo=JavaScript)
-  ![C++](https://img.shields.io/badge/-C++-EEEEEE?&logo=c%2b%2b&logoColor=00599C)
-  ![C](https://img.shields.io/badge/-C-EEEEEE?&logo=C)
-  ![Java](https://img.shields.io/badge/-Java-EEEEEE?&logo=Java&logoColor=007396)
-  ![SQL](https://img.shields.io/badge/-SQL-EEEEEE?&logo=MySQL)
-  ![Golang](https://img.shields.io/badge/-Go-EEEEEE?&logo=Go)
+- ![Python](https://img.shields.io/badge/-Python-EEEEEE?style=flat-square&logo=Python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-EEEEEE?style=flat-square&logo=JavaScript)
+  ![C++](https://img.shields.io/badge/-C++-EEEEEE?style=flat-square&logo=c%2b%2b&logoColor=00599C)
+  ![C](https://img.shields.io/badge/-C-EEEEEE?style=flat-square&logo=C)
+  ![Java](https://img.shields.io/badge/-Java-EEEEEE?style=flat-square&logo=Java&logoColor=007396)
+  ![SQL](https://img.shields.io/badge/-SQL-EEEEEE?style=flat-square&logo=MySQL)
+  ![Golang](https://img.shields.io/badge/-Go-EEEEEE?style=flat-square&logo=Go)
 
 ### Frameworks and DBs
 
-- ![Django](https://img.shields.io/badge/-Django-EEEEEE?&logo=Django&logoColor=darkgreen) ![Flask](https://img.shields.io/badge/-Flask-EEEEEE?style=flat-square&logo=Flask&logoColor=000) ![ReactJs](https://img.shields.io/badge/-ReactJs-EEEEEE?&logo=REACT) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-EEEEEE?&logo=Bootstrap) ![MySQL](https://img.shields.io/badge/-MySQL-EEEEEE?&logo=Mysql)
+- ![Django](https://img.shields.io/badge/-Django-EEEEEE?style=flat-square&logo=Django&logoColor=darkgreen) ![Flask](https://img.shields.io/badge/-Flask-EEEEEE?style=flat-square&logo=Flask&logoColor=000) ![ReactJs](https://img.shields.io/badge/-ReactJs-EEEEEE?style=flat-square&logo=REACT) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-EEEEEE?style=flat-square&logo=Bootstrap) ![MySQL](https://img.shields.io/badge/-MySQL-EEEEEE?style=flat-square&logo=Mysql)
 
 ### Tools
 
