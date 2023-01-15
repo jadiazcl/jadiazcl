@@ -24,7 +24,7 @@ I'm a Full-Stack developer from Chile, based in Santiago.
 
 ### Frameworks and DBs
 
-- ![Django](https://img.shields.io/badge/-Django-EEEEEE?style=flat-square&logo=Django&logoColor=darkgreen) ![Flask](https://img.shields.io/badge/-Flask-EEEEEE?style=flat-square&logo=Flask&logoColor=000) ![ReactJs](https://img.shields.io/badge/-ReactJs-EEEEEE?style=flat-square&logo=REACT) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-EEEEEE?style=flat-square&logo=Bootstrap) ![MySQL](https://img.shields.io/badge/-MySQL-EEEEEE?style=flat-square&logo=Mysql)
+- ![Django](https://img.shields.io/badge/-Django-EEEEEE?style=flat-square&logo=Django&logoColor=darkgreen) ![ReactJs](https://img.shields.io/badge/-ReactJs-EEEEEE?style=flat-square&logo=REACT) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-EEEEEE?style=flat-square&logo=Bootstrap) ![MySQL](https://img.shields.io/badge/-MySQL-EEEEEE?style=flat-square&logo=Mysql)
 
 ### Tools
 
@@ -32,13 +32,13 @@ I'm a Full-Stack developer from Chile, based in Santiago.
 
 ### I'm currently learning or I'm interested in learning
 
-- ![AWS](https://img.shields.io/badge/AWS-EEEEEE?style=flat-square&logo=amazon-aws&logoColor=orange) ![Angular](https://img.shields.io/badge/Angular-EEEEEE?style=flat-square&logo=angular&logoColor=red) ![NodeJS](https://img.shields.io/badge/node.js-EEEEEE?style=flat-square&logo=node.js) ![Spring](https://img.shields.io/badge/spring-EEEEEE.svg?style=flat-square&logo=spring&logoColor=green) ![MongoDB](https://img.shields.io/badge/-MongoDB-EEEEEE?style=flat-square&logo=MongoDB&logoColor=green) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-EEEEEE?style=flat-square&logo=Kubernetes&logoColor=yellow) ![Kafka](https://img.shields.io/badge/-Kafka-EEEEEE?style=flat-square&logo=apachekafka&logoColor=000)
+- ![AWS](https://img.shields.io/badge/AWS-EEEEEE?style=flat-square&logo=amazon-aws&logoColor=orange) ![GCP](https://img.shields.io/badge/GoogleCloud-EEEEEE?style=flat-square&logo=google-cloud) ![Angular](https://img.shields.io/badge/Angular-EEEEEE?style=flat-square&logo=angular&logoColor=red) ![NodeJS](https://img.shields.io/badge/node.js-EEEEEE?style=flat-square&logo=node.js) ![Spring](https://img.shields.io/badge/spring-EEEEEE.svg?style=flat-square&logo=spring&logoColor=green) ![MongoDB](https://img.shields.io/badge/-MongoDB-EEEEEE?style=flat-square&logo=MongoDB&logoColor=green) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-EEEEEE?style=flat-square&logo=Kubernetes&logoColor=yellow)
 
 **Statistics**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jor-Diaz)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jor-diaz&show_icons=true&locale=en&layout=compact" alt="jor-diaz" /></p>
 
-Last Updated on 14/01/2023
+Last Updated on 15/01/2023
 
 <!--
 **Jor-Diaz/Jor-Diaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
