@@ -1,4 +1,4 @@
-# Hello Everyone! 👨🏽‍💻
+# Hello Everyone! 👨🏽‍💻 ![](https://visitor-badge.glitch.me/badge?page_id=Jor-Diaz)
 
 I'm a Full-Stack developer from Chile, based in Santiago.
 
@@ -38,7 +38,10 @@ I'm a Full-Stack developer from Chile, based in Santiago.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jor-diaz&show_icons=true&locale=en&layout=compact&exclude_repo=Jor-Diaz" alt="jor-diaz" /></p>
 
-Last Updated on 15/01/2023
+Last Updated on 18/01/2023
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-eeeeee?style=flat-square&logo=linkedin&colorB=blue
+[linkedin-url]: https://cl.linkedin.com/in/jdiazmatte
 
 <!--
 **Jor-Diaz/Jor-Diaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
