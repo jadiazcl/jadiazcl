@@ -24,7 +24,7 @@ I'm a Full-Stack developer from Chile, based in Santiago.
 
 ### Frameworks and DBs
 
-- ![Django](https://img.shields.io/badge/-Django-EEEEEE?style=flat-square&logo=Django&logoColor=darkgreen) ![ReactJs](https://img.shields.io/badge/-ReactJs-EEEEEE?style=flat-square&logo=REACT) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-EEEEEE?style=flat-square&logo=Bootstrap) ![MySQL](https://img.shields.io/badge/-MySQL-EEEEEE?style=flat-square&logo=Mysql)
+- ![Django](https://img.shields.io/badge/-Django-EEEEEE?style=flat-square&logo=Django&logoColor=darkgreen) ![ReactJs](https://img.shields.io/badge/-ReactJs-EEEEEE?style=flat-square&logo=REACT) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-EEEEEE?style=flat-square&logo=Bootstrap) ![RobotFramework](https://img.shields.io/badge/-RobotFramework-EEEEEE?style=flat-square&logo=Robotframework&logoColor=black) ![MySQL](https://img.shields.io/badge/-MySQL-EEEEEE?style=flat-square&logo=Mysql)
 
 ### Tools
 
@@ -38,7 +38,7 @@ I'm a Full-Stack developer from Chile, based in Santiago.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jor-diaz&show_icons=true&locale=en&layout=compact&exclude_repo=Jor-Diaz" alt="jor-diaz" /></p>
 
-Last Updated on 18/01/2023
+Last Updated on 06/02/2023
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-eeeeee?style=flat-square&logo=linkedin&colorB=blue
 [linkedin-url]: https://cl.linkedin.com/in/jdiazmatte
