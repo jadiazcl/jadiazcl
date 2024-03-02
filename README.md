@@ -24,7 +24,7 @@ I'm a a Geometric Meshes Researcher and Full-Stack developer from Chile, based i
 
 ### Frameworks and DBs
 
-- ![Django](https://img.shields.io/badge/-Django-EEEEEE?style=flat-square&logo=Django&logoColor=darkgreen) ![ReactJs](https://img.shields.io/badge/-ReactJs-EEEEEE?style=flat-square&logo=REACT) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-EEEEEE?style=flat-square&logo=Bootstrap) ![RobotFramework](https://img.shields.io/badge/-RobotFramework-EEEEEE?style=flat-square&logo=Robotframework&logoColor=black) ![MySQL](https://img.shields.io/badge/-MySQL-EEEEEE?style=flat-square&logo=Mysql)
+- ![Django](https://img.shields.io/badge/-Django-EEEEEE?style=flat-square&logo=Django&logoColor=darkgreen) ![NodeJS](https://img.shields.io/badge/node.js-EEEEEE?style=flat-square&logo=node.js) ![VueJs](https://img.shields.io/badge/-VueJs-EEEEEE?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![ReactJs](https://img.shields.io/badge/-ReactJs-EEEEEE?style=flat-square&logo=REACT) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-EEEEEE?style=flat-square&logo=Bootstrap) ![RobotFramework](https://img.shields.io/badge/-RobotFramework-EEEEEE?style=flat-square&logo=Robotframework&logoColor=black) ![MySQL](https://img.shields.io/badge/-MySQL-EEEEEE?style=flat-square&logo=Mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-EEEEEE?style=flat-square&logo=MongoDB&logoColor=green) 
 
 ### Tools
 
@@ -32,7 +32,7 @@ I'm a a Geometric Meshes Researcher and Full-Stack developer from Chile, based i
 
 ### I'm currently learning or I'm interested in learning
 
-- ![AWS](https://img.shields.io/badge/AWS-EEEEEE?style=flat-square&logo=amazon-aws&logoColor=orange) ![GCP](https://img.shields.io/badge/GoogleCloud-EEEEEE?style=flat-square&logo=google-cloud) ![Angular](https://img.shields.io/badge/Angular-EEEEEE?style=flat-square&logo=angular&logoColor=red) ![NodeJS](https://img.shields.io/badge/node.js-EEEEEE?style=flat-square&logo=node.js) ![Spring](https://img.shields.io/badge/spring-EEEEEE.svg?style=flat-square&logo=spring&logoColor=green) ![MongoDB](https://img.shields.io/badge/-MongoDB-EEEEEE?style=flat-square&logo=MongoDB&logoColor=green) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-EEEEEE?style=flat-square&logo=Kubernetes&logoColor=yellow)
+- ![AWS](https://img.shields.io/badge/AWS-EEEEEE?style=flat-square&logo=amazon-aws&logoColor=orange) ![GCP](https://img.shields.io/badge/GoogleCloud-EEEEEE?style=flat-square&logo=google-cloud)   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-EEEEEE?style=flat-square&logo=Kubernetes&logoColor=yellow)
 
 **Statistics**
 
