@@ -1,6 +1,6 @@
 # Hello Everyone! 👨🏽‍💻 ![](https://visitor-badge.glitch.me/badge?page_id=Jor-Diaz)
 
-I'm a Full-Stack developer from Chile, based in Santiago.
+I'm a a Geometric Meshes Researcher and Full-Stack developer from Chile, based in Santiago.
 
 ## 📋 About Me
 
@@ -36,7 +36,7 @@ I'm a Full-Stack developer from Chile, based in Santiago.
 
 **Statistics**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jor-diaz&show_icons=true&locale=en&layout=compact&exclude_repo=Jor-Diaz" alt="jor-diaz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadiazcl&show_icons=true&locale=en&layout=compact&exclude_repo=Jor-Diaz" alt="jor-diaz" /></p>
 
 Last Updated on 06/02/2023
 
