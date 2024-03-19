@@ -8,7 +8,7 @@ I'm a a Geometric Meshes Researcher and Full-Stack developer from Chile, based i
 
 🧑🏻‍🏫 I'm a part-time professor at the Universidad Técnica Federico Santa María. I have taught the courses: Computer Networks, Distributed Systems, Discrete Mathematics and Programming Languages.
 
-💻 I have worked in the area of development for more than three years for several companies.
+💻 I have worked in the area of development for more than four years for several companies.
 
 ## 🛠 Technology Stack
 
@@ -38,7 +38,7 @@ I'm a a Geometric Meshes Researcher and Full-Stack developer from Chile, based i
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadiazcl&show_icons=true&locale=en&layout=compact&exclude_repo=Jor-Diaz" alt="jor-diaz" /></p>
 
-Last Updated on 02/03/2023
+Last Updated on 19/03/2023
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-eeeeee?style=flat-square&logo=linkedin&colorB=blue
 [linkedin-url]: https://cl.linkedin.com/in/jdiazmatte
