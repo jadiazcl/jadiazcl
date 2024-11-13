@@ -8,7 +8,7 @@ I'm a a Geometric Meshes Researcher and Full-Stack developer from Chile, based i
 
 🧑🏻‍🏫 I'm a part-time professor at the Universidad Técnica Federico Santa María. I have taught the courses: Computer Networks, Distributed Systems, Discrete Mathematics and Programming Languages.
 
-💻 I have worked in the area of development for more than four years for several companies.
+💻 I have worked in the area of development for more than five years for several companies.
 
 ## 🛠 Technology Stack
 
