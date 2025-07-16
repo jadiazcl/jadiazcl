@@ -1,6 +1,6 @@
 # Hello Everyone! 👨🏽‍💻 ![](https://visitor-badge.glitch.me/badge?page_id=Jor-Diaz)
 
-I'm a a Geometric Meshes Researcher from Chile, based in Santiago.
+I'm a Geometric Meshes Researcher from Chile, based in Santiago.
 
 ## 📋 About Me
 
