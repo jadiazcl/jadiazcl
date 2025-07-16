@@ -1,6 +1,6 @@
 # Hello Everyone! 👨🏽‍💻 ![](https://visitor-badge.glitch.me/badge?page_id=Jor-Diaz)
 
-I'm a a Geometric Meshes Researcher and Full-Stack developer from Chile, based in Santiago.
+I'm a a Geometric Meshes Researcher from Chile, based in Santiago.
 
 ## 📋 About Me
 
@@ -8,18 +8,18 @@ I'm a a Geometric Meshes Researcher and Full-Stack developer from Chile, based i
 
 🧑🏻‍🎓 Actually, I'm a PhD student in Computing at the Universidad de Chile.
 
-🧑🏻‍🏫 Also, I'm a part-time professor at the Universidad Técnica Federico Santa María. I have taught the courses: Computer Networks, Distributed Systems, Discrete Mathematics and Programming Languages.
+🧑🏻‍🏫 Also, I'm a instructor at the Universidad Técnica Federico Santa María. I have taught the courses: Computer Networks, Distributed Systems, Discrete Mathematics and Programming Languages.
 
-💻 I have worked in the area of development for more than five years for several companies.
+💻 I have worked in the area of development for several years for many companies.
 
 ## 🛠 Technology Stack
 
 ### Programming Languages
 
-- ![Python](https://img.shields.io/badge/-Python-EEEEEE?style=flat-square&logo=Python)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-EEEEEE?style=flat-square&logo=JavaScript)
-  ![C++](https://img.shields.io/badge/-C++-EEEEEE?style=flat-square&logo=c%2b%2b&logoColor=00599C)
+- ![C++](https://img.shields.io/badge/-C++-EEEEEE?style=flat-square&logo=c%2b%2b&logoColor=00599C)
   ![C](https://img.shields.io/badge/-C-EEEEEE?style=flat-square&logo=C)
+  ![Python](https://img.shields.io/badge/-Python-EEEEEE?style=flat-square&logo=Python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-EEEEEE?style=flat-square&logo=JavaScript)
   ![Java](https://img.shields.io/badge/-Java-EEEEEE?style=flat-square&logo=Java&logoColor=007396)
   ![SQL](https://img.shields.io/badge/-SQL-EEEEEE?style=flat-square&logo=MySQL)
   ![Golang](https://img.shields.io/badge/-Go-EEEEEE?style=flat-square&logo=Go)
@@ -48,7 +48,6 @@ Last Updated on 19/03/2023
 <!--
 **Jor-Diaz/Jor-Diaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
