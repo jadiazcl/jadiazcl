@@ -32,9 +32,9 @@ I'm a Geometric Meshes Researcher from Chile, based in Santiago.
 
 - ![Docker](https://img.shields.io/badge/-Docker-EEEEEE?style=flat-square&logo=docker) ![Nginx](https://img.shields.io/badge/-Nginx-EEEEEE?style=flat-square&logo=nginx&logoColor=green) ![Apache](https://img.shields.io/badge/-Apache-EEEEEE?style=flat-square&logo=apache&logoColor=purple) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-EEEEEE?style=flat-square&logo=DigitalOcean) ![Git](https://img.shields.io/badge/-Git-EEEEEE?style=flat-square&logo=git)
 
-### I'm currently learning or I'm interested in learning
+<!--### I'm currently learning or I'm interested in learning
 
-- ![AWS](https://img.shields.io/badge/AWS-EEEEEE?style=flat-square&logo=amazon-aws&logoColor=orange) ![GCP](https://img.shields.io/badge/GoogleCloud-EEEEEE?style=flat-square&logo=google-cloud)   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-EEEEEE?style=flat-square&logo=Kubernetes&logoColor=yellow)
+- ![AWS](https://img.shields.io/badge/AWS-EEEEEE?style=flat-square&logo=amazon-aws&logoColor=orange) ![GCP](https://img.shields.io/badge/GoogleCloud-EEEEEE?style=flat-square&logo=google-cloud)   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-EEEEEE?style=flat-square&logo=Kubernetes&logoColor=yellow)-->
 
 **Statistics**
 
