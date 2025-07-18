@@ -40,7 +40,7 @@ I'm a Geometric Meshes Researcher from Chile, based in Santiago.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadiazcl&show_icons=true&locale=en&layout=compact&exclude_repo=Jor-Diaz" alt="jor-diaz" /></p>
 
-Last Updated on 19/03/2023
+Last Updated on 18/07/2025
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-eeeeee?style=flat-square&logo=linkedin&colorB=blue
 [linkedin-url]: https://cl.linkedin.com/in/jdiazmatte
